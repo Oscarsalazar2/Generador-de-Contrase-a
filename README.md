@@ -1,1 +1,1 @@
-# Generador-de-Contrase-a
+# Generador-de-Contraseñas
