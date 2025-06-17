@@ -11,27 +11,15 @@ Esta es una aplicación web simple y responsiva que permite generar contraseñas
 - 🧠 Verificación de fortaleza con la librería `zxcvbn`.
 - ⚠️ Detección de contraseñas filtradas (usando la API de Have I Been Pwned).
 
-## 🖼️ Captura de pantalla
-
-*(Agrega aquí una imagen si lo deseas)*
 
 ## 📦 Tecnologías usadas
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
 - [Bootstrap 5](https://getbootstrap.com/)
 - [zxcvbn](https://github.com/dropbox/zxcvbn) – Análisis de fortaleza de contraseñas
 - [Have I Been Pwned API](https://haveibeenpwned.com/API/v3) – Verificación de contraseñas filtradas
-
-## 📂 Estructura del proyecto
-
-/proyecto/
-│
-├── index.html # Página principal
-├── main.js # Lógica JavaScript
-├── styles.css # Estilos personalizados
-└── README.md # Documentación del proyecto
 
 
 ## 🔧 Instalación y uso
